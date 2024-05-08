@@ -3,7 +3,11 @@
     }
     html,body{
     height: 100%;
-     /*align-items: center;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+   
+     /*text-align: center;/*align-items: center;*/
     }
     
     body{
@@ -16,9 +20,7 @@
     }
     
     .create{
-    background-color: blue;
     width: 100%;
-    }
-    main {
   
     }
+    
